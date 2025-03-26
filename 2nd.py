@@ -1,2 +1,1 @@
 print("nd")
-print("ndk")
